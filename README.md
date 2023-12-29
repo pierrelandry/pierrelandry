@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at Doctolib as Sr Machine Learning Engineer
-- 🌱 I’m currently learning OPS and how to build ML systems and and take advantage of automatisation with Infra as Code   
-- 👯 I’m looking to collaborate with anyone interest in Macine Learning Industrialisation
+- 🌱 I’m working on LLMs, RAG and GenAI use case stuff and how to deploy it in a production environment
 - 💬 Ask me about anything [here](https://github.com/pierrelandry/pierrelandry/issues)
 <br />
 <br />
